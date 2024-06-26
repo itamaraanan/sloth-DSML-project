@@ -1,7 +1,7 @@
 # Sloth Species Classification Project
 
 ## Project Overview
-This project is part of the Data Science and Machine Learning final assessment, developed by Itamar Raanan. It focuses on the classification of different sloth species using a dataset sourced from Kaggle. The dataset includes various features such as claw length, size, tail length, weight, and the endangered status of six distinct sloth species.
+This project is part of the Data Science and Machine Learning final assessment, developed by me, Itamar Raanan. It focuses on the classification of different sloth species using a dataset from Kaggle. The dataset includes various features such as claw length, size, tail length, weight, and the endangered status of six distinct sloth species.
 
 ## Features
 The dataset includes the following attributes for each sloth:
@@ -16,7 +16,7 @@ The dataset includes the following attributes for each sloth:
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/itamaraanan/sloth-DSML-project.git]
    ```
 2. Install required libraries:
    ```bash
@@ -34,4 +34,4 @@ The dataset includes the following attributes for each sloth:
 The project achieved high accuracy in classifying the sloth species, with detailed confusion matrices and classification reports provided to assess model performance.
 
 ## Conclusion
-This project not only highlighted the practical applications of machine learning in wildlife conservation but also provided a hands-on experience in managing and interpreting biological data effectively.
+This project effectively used machine learning to classify sloth species. With models like K-Nearest Neighbors, Support Vector Machine, and Perceptron, it achieved high accuracy. It provided me valuable experience in working with biological data for wildlife conservation.
