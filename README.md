@@ -16,7 +16,7 @@ The dataset includes the following attributes for each sloth:
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/itamaraanan/sloth-DSML-project.git]
+   git clone https://github.com/itamaraanan/sloth-DSML-project.git
    ```
 2. Install required libraries:
    ```bash
